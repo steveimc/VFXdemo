@@ -1,0 +1,408 @@
+fileFormatVersion: 2
+guid: 55de4b9f8b0e7874a8527f4858be8464
+timeCreated: 1432271699
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: BirdMaskMacaw
+    100002: //RootNode
+    100004: Feathers_1
+    100006: Feathers_2
+    100008: Feathers_3
+    100010: Feathers_5
+    100012: Mask_Core
+    100014: nurbsCircle11
+    100016: nurbsCircle12
+    100018: nurbsCircle13
+    100020: nurbsCircle14
+    100022: nurbsCircle30
+    100024: nurbsCircle31
+    100026: nurbsCircle62
+    100028: Top_Feathers_1
+    100030: Top_Feathers_2
+    100032: Top_Feathers_3
+    400000: BirdMaskMacaw
+    400002: //RootNode
+    400004: Feathers_1
+    400006: Feathers_2
+    400008: Feathers_3
+    400010: Feathers_5
+    400012: Mask_Core
+    400014: nurbsCircle11
+    400016: nurbsCircle12
+    400018: nurbsCircle13
+    400020: nurbsCircle14
+    400022: nurbsCircle30
+    400024: nurbsCircle31
+    400026: nurbsCircle62
+    400028: Top_Feathers_1
+    400030: Top_Feathers_2
+    400032: Top_Feathers_3
+    4300000: BirdMaskMacaw
+    7400000: RunF_Macaw
+    7400002: Idle_Macaw
+    7400004: RunB_Macaw
+    7400006: RunR_Macaw
+    7400008: RunL_Macaw
+    9500000: //RootNode
+    13700000: BirdMaskMacaw
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: RunF_Macaw
+      takeName: Take 001
+      firstFrame: 3
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BirdMaskMacaw
+        weight: 1
+      - path: nurbsCircle62
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31/Mask_Core
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31/Mask_Core/Feathers_1
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31/Mask_Core/Feathers_1/Feathers_2
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31/Mask_Core/Feathers_1/Feathers_2/Feathers_3
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31/Mask_Core/Feathers_1/Feathers_2/Feathers_3/Feathers_5
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31/Mask_Core/Feathers_1/Top_Feathers_1
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31/Mask_Core/Feathers_1/Top_Feathers_1/Top_Feathers_2
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31/Mask_Core/Feathers_1/Top_Feathers_1/Top_Feathers_2/Top_Feathers_3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Idle_Macaw
+      takeName: Take 001
+      firstFrame: 42
+      lastFrame: 173
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BirdMaskMacaw
+        weight: 1
+      - path: nurbsCircle62
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31/Mask_Core
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31/Mask_Core/Feathers_1
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31/Mask_Core/Feathers_1/Feathers_2
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31/Mask_Core/Feathers_1/Feathers_2/Feathers_3
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31/Mask_Core/Feathers_1/Feathers_2/Feathers_3/Feathers_5
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31/Mask_Core/Feathers_1/Top_Feathers_1
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31/Mask_Core/Feathers_1/Top_Feathers_1/Top_Feathers_2
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31/Mask_Core/Feathers_1/Top_Feathers_1/Top_Feathers_2/Top_Feathers_3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: RunB_Macaw
+      takeName: Take 001
+      firstFrame: 20
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BirdMaskMacaw
+        weight: 1
+      - path: nurbsCircle62
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31/Mask_Core
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31/Mask_Core/Feathers_1
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31/Mask_Core/Feathers_1/Feathers_2
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31/Mask_Core/Feathers_1/Feathers_2/Feathers_3
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31/Mask_Core/Feathers_1/Feathers_2/Feathers_3/Feathers_5
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31/Mask_Core/Feathers_1/Top_Feathers_1
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31/Mask_Core/Feathers_1/Top_Feathers_1/Top_Feathers_2
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31/Mask_Core/Feathers_1/Top_Feathers_1/Top_Feathers_2/Top_Feathers_3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: RunR_Macaw
+      takeName: Take 001
+      firstFrame: 175
+      lastFrame: 192
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BirdMaskMacaw
+        weight: 1
+      - path: nurbsCircle62
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31/Mask_Core
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31/Mask_Core/Feathers_1
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31/Mask_Core/Feathers_1/Feathers_2
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31/Mask_Core/Feathers_1/Feathers_2/Feathers_3
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31/Mask_Core/Feathers_1/Feathers_2/Feathers_3/Feathers_5
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31/Mask_Core/Feathers_1/Top_Feathers_1
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31/Mask_Core/Feathers_1/Top_Feathers_1/Top_Feathers_2
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31/Mask_Core/Feathers_1/Top_Feathers_1/Top_Feathers_2/Top_Feathers_3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: RunL_Macaw
+      takeName: Take 001
+      firstFrame: 193
+      lastFrame: 209
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BirdMaskMacaw
+        weight: 1
+      - path: nurbsCircle62
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31/Mask_Core
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31/Mask_Core/Feathers_1
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31/Mask_Core/Feathers_1/Feathers_2
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31/Mask_Core/Feathers_1/Feathers_2/Feathers_3
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31/Mask_Core/Feathers_1/Feathers_2/Feathers_3/Feathers_5
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31/Mask_Core/Feathers_1/Top_Feathers_1
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31/Mask_Core/Feathers_1/Top_Feathers_1/Top_Feathers_2
+        weight: 1
+      - path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31/Mask_Core/Feathers_1/Top_Feathers_1/Top_Feathers_2/Top_Feathers_3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: bb99c1952a39c8b42a090450a06418d5,
+    type: 3}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

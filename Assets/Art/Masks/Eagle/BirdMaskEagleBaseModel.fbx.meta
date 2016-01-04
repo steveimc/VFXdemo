@@ -1,0 +1,92 @@
+fileFormatVersion: 2
+guid: 728cf50c7340fed47a2cb4acb1ad0151
+timeCreated: 1432261033
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: BirdMaskEagle
+    100002: //RootNode
+    100004: Feathers_1
+    100006: Feathers_2
+    100008: Feathers_3
+    100010: Mask_Root
+    100012: nurbsCircle11
+    100014: nurbsCircle12
+    100016: nurbsCircle13
+    100018: nurbsCircle14
+    100020: nurbsCircle30
+    100022: nurbsCircle31
+    400000: BirdMaskEagle
+    400002: //RootNode
+    400004: Feathers_1
+    400006: Feathers_2
+    400008: Feathers_3
+    400010: Mask_Root
+    400012: nurbsCircle11
+    400014: nurbsCircle12
+    400016: nurbsCircle13
+    400018: nurbsCircle14
+    400020: nurbsCircle30
+    400022: nurbsCircle31
+    4300000: BirdMaskEagle
+    9500000: //RootNode
+    13700000: BirdMaskEagle
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1472 @@
+fileFormatVersion: 2
+guid: ac1bf3fd6f1f1e54d9ac78462e9652bd
+timeCreated: 1431036339
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: joint1
+    100004: joint10
+    100006: joint100
+    100008: joint100_pointOnPolyConstraint1
+    100010: joint101
+    100012: joint101_pointOnPolyConstraint1
+    100014: joint102
+    100016: joint102_pointOnPolyConstraint1
+    100018: joint103
+    100020: joint103_pointOnPolyConstraint1
+    100022: joint104
+    100024: joint104_pointOnPolyConstraint1
+    100026: joint105
+    100028: joint105_pointOnPolyConstraint1
+    100030: joint106
+    100032: joint106_pointOnPolyConstraint1
+    100034: joint107
+    100036: joint107_pointOnPolyConstraint1
+    100038: joint108
+    100040: joint108_pointOnPolyConstraint1
+    100042: joint109
+    100044: joint109_pointOnPolyConstraint1
+    100046: joint10_pointOnPolyConstraint1
+    100048: joint11
+    100050: joint110
+    100052: joint110_pointOnPolyConstraint1
+    100054: joint111
+    100056: joint111_pointOnPolyConstraint1
+    100058: joint112
+    100060: joint112_pointOnPolyConstraint1
+    100062: joint113
+    100064: joint113_pointOnPolyConstraint1
+    100066: joint114
+    100068: joint114_pointOnPolyConstraint1
+    100070: joint115
+    100072: joint115_pointOnPolyConstraint1
+    100074: joint116
+    100076: joint116_pointOnPolyConstraint1
+    100078: joint117
+    100080: joint117_pointOnPolyConstraint1
+    100082: joint118
+    100084: joint118_pointOnPolyConstraint1
+    100086: joint119
+    100088: joint119_pointOnPolyConstraint1
+    100090: joint11_pointOnPolyConstraint1
+    100092: joint12
+    100094: joint120
+    100096: joint120_pointOnPolyConstraint1
+    100098: joint121
+    100100: joint121_pointOnPolyConstraint1
+    100102: joint122
+    100104: joint122_pointOnPolyConstraint1
+    100106: joint123
+    100108: joint123_pointOnPolyConstraint1
+    100110: joint124
+    100112: joint124_pointOnPolyConstraint1
+    100114: joint125
+    100116: joint125_pointOnPolyConstraint1
+    100118: joint126
+    100120: joint126_pointOnPolyConstraint1
+    100122: joint127
+    100124: joint127_pointOnPolyConstraint1
+    100126: joint128
+    100128: joint128_pointOnPolyConstraint1
+    100130: joint129
+    100132: joint129_pointOnPolyConstraint1
+    100134: joint12_pointOnPolyConstraint1
+    100136: joint13
+    100138: joint130
+    100140: joint130_pointOnPolyConstraint1
+    100142: joint131
+    100144: joint131_pointOnPolyConstraint1
+    100146: joint132
+    100148: joint132_pointOnPolyConstraint1
+    100150: joint133
+    100152: joint133_pointOnPolyConstraint1
+    100154: joint134
+    100156: joint134_pointOnPolyConstraint1
+    100158: joint135
+    100160: joint135_pointOnPolyConstraint1
+    100162: joint136
+    100164: joint136_pointOnPolyConstraint1
+    100166: joint137
+    100168: joint137_pointOnPolyConstraint1
+    100170: joint138
+    100172: joint138_pointOnPolyConstraint1
+    100174: joint139
+    100176: joint139_pointOnPolyConstraint1
+    100178: joint13_pointOnPolyConstraint1
+    100180: joint14
+    100182: joint140
+    100184: joint140_pointOnPolyConstraint1
+    100186: joint141
+    100188: joint141_pointOnPolyConstraint1
+    100190: joint142
+    100192: joint142_pointOnPolyConstraint1
+    100194: joint143
+    100196: joint143_pointOnPolyConstraint1
+    100198: joint144
+    100200: joint144_pointOnPolyConstraint1
+    100202: joint145
+    100204: joint145_pointOnPolyConstraint1
+    100206: joint146
+    100208: joint146_pointOnPolyConstraint1
+    100210: joint147
+    100212: joint147_pointOnPolyConstraint1
+    100214: joint148
+    100216: joint148_pointOnPolyConstraint1
+    100218: joint149
+    100220: joint149_pointOnPolyConstraint1
+    100222: joint14_pointOnPolyConstraint1
+    100224: joint15
+    100226: joint150
+    100228: joint150_pointOnPolyConstraint1
+    100230: joint151
+    100232: joint151_pointOnPolyConstraint1
+    100234: joint152
+    100236: joint152_pointOnPolyConstraint1
+    100238: joint15_pointOnPolyConstraint1
+    100240: joint16
+    100242: joint16_pointOnPolyConstraint1
+    100244: joint17
+    100246: joint17_pointOnPolyConstraint1
+    100248: joint18
+    100250: joint18_pointOnPolyConstraint1
+    100252: joint19
+    100254: joint19_pointOnPolyConstraint1
+    100256: joint1_pointOnPolyConstraint1
+    100258: joint2
+    100260: joint20
+    100262: joint20_pointOnPolyConstraint1
+    100264: joint21
+    100266: joint21_pointOnPolyConstraint1
+    100268: joint22
+    100270: joint22_pointOnPolyConstraint1
+    100272: joint23
+    100274: joint23_pointOnPolyConstraint1
+    100276: joint24
+    100278: joint24_pointOnPolyConstraint1
+    100280: joint25
+    100282: joint25_pointOnPolyConstraint1
+    100284: joint26
+    100286: joint26_pointOnPolyConstraint1
+    100288: joint27
+    100290: joint27_pointOnPolyConstraint1
+    100292: joint28
+    100294: joint28_pointOnPolyConstraint1
+    100296: joint29
+    100298: joint29_pointOnPolyConstraint1
+    100300: joint2_pointOnPolyConstraint1
+    100302: joint3
+    100304: joint30
+    100306: joint30_pointOnPolyConstraint1
+    100308: joint31
+    100310: joint31_pointOnPolyConstraint1
+    100312: joint32
+    100314: joint32_pointOnPolyConstraint1
+    100316: joint33
+    100318: joint33_pointOnPolyConstraint1
+    100320: joint34
+    100322: joint34_pointOnPolyConstraint1
+    100324: joint35
+    100326: joint35_pointOnPolyConstraint1
+    100328: joint36
+    100330: joint36_pointOnPolyConstraint1
+    100332: joint37
+    100334: joint37_pointOnPolyConstraint1
+    100336: joint38
+    100338: joint38_pointOnPolyConstraint1
+    100340: joint39
+    100342: joint39_pointOnPolyConstraint1
+    100344: joint3_pointOnPolyConstraint1
+    100346: joint4
+    100348: joint40
+    100350: joint40_pointOnPolyConstraint1
+    100352: joint41
+    100354: joint41_pointOnPolyConstraint1
+    100356: joint42
+    100358: joint42_pointOnPolyConstraint1
+    100360: joint43
+    100362: joint43_pointOnPolyConstraint1
+    100364: joint44
+    100366: joint44_pointOnPolyConstraint1
+    100368: joint45
+    100370: joint45_pointOnPolyConstraint1
+    100372: joint46
+    100374: joint46_pointOnPolyConstraint1
+    100376: joint47
+    100378: joint47_pointOnPolyConstraint1
+    100380: joint48
+    100382: joint48_pointOnPolyConstraint1
+    100384: joint49
+    100386: joint49_pointOnPolyConstraint1
+    100388: joint4_pointOnPolyConstraint1
+    100390: joint5
+    100392: joint50
+    100394: joint50_pointOnPolyConstraint1
+    100396: joint51
+    100398: joint51_pointOnPolyConstraint1
+    100400: joint52
+    100402: joint52_pointOnPolyConstraint1
+    100404: joint53
+    100406: joint53_pointOnPolyConstraint1
+    100408: joint54
+    100410: joint54_pointOnPolyConstraint1
+    100412: joint55
+    100414: joint55_pointOnPolyConstraint1
+    100416: joint56
+    100418: joint56_pointOnPolyConstraint1
+    100420: joint57
+    100422: joint57_pointOnPolyConstraint1
+    100424: joint58
+    100426: joint58_pointOnPolyConstraint1
+    100428: joint59
+    100430: joint59_pointOnPolyConstraint1
+    100432: joint5_pointOnPolyConstraint1
+    100434: joint6
+    100436: joint60
+    100438: joint60_pointOnPolyConstraint1
+    100440: joint61
+    100442: joint61_pointOnPolyConstraint1
+    100444: joint62
+    100446: joint62_pointOnPolyConstraint1
+    100448: joint63
+    100450: joint63_pointOnPolyConstraint1
+    100452: joint64
+    100454: joint64_pointOnPolyConstraint1
+    100456: joint65
+    100458: joint65_pointOnPolyConstraint1
+    100460: joint66
+    100462: joint66_pointOnPolyConstraint1
+    100464: joint67
+    100466: joint67_pointOnPolyConstraint1
+    100468: joint68
+    100470: joint68_pointOnPolyConstraint1
+    100472: joint69
+    100474: joint69_pointOnPolyConstraint1
+    100476: joint6_pointOnPolyConstraint1
+    100478: joint7
+    100480: joint70
+    100482: joint70_pointOnPolyConstraint1
+    100484: joint71
+    100486: joint71_pointOnPolyConstraint1
+    100488: joint72
+    100490: joint72_pointOnPolyConstraint1
+    100492: joint73
+    100494: joint73_pointOnPolyConstraint1
+    100496: joint74
+    100498: joint74_pointOnPolyConstraint1
+    100500: joint75
+    100502: joint75_pointOnPolyConstraint1
+    100504: joint76
+    100506: joint76_pointOnPolyConstraint1
+    100508: joint77
+    100510: joint77_pointOnPolyConstraint1
+    100512: joint78
+    100514: joint78_pointOnPolyConstraint1
+    100516: joint79
+    100518: joint79_pointOnPolyConstraint1
+    100520: joint7_pointOnPolyConstraint1
+    100522: joint8
+    100524: joint80
+    100526: joint80_pointOnPolyConstraint1
+    100528: joint81
+    100530: joint81_pointOnPolyConstraint1
+    100532: joint82
+    100534: joint82_pointOnPolyConstraint1
+    100536: joint83
+    100538: joint83_pointOnPolyConstraint1
+    100540: joint84
+    100542: joint84_pointOnPolyConstraint1
+    100544: joint85
+    100546: joint85_pointOnPolyConstraint1
+    100548: joint86
+    100550: joint86_pointOnPolyConstraint1
+    100552: joint87
+    100554: joint87_pointOnPolyConstraint1
+    100556: joint88
+    100558: joint88_pointOnPolyConstraint1
+    100560: joint89
+    100562: joint89_pointOnPolyConstraint1
+    100564: joint8_pointOnPolyConstraint1
+    100566: joint9
+    100568: joint90
+    100570: joint90_pointOnPolyConstraint1
+    100572: joint91
+    100574: joint91_pointOnPolyConstraint1
+    100576: joint92
+    100578: joint92_pointOnPolyConstraint1
+    100580: joint93
+    100582: joint93_pointOnPolyConstraint1
+    100584: joint94
+    100586: joint94_pointOnPolyConstraint1
+    100588: joint95
+    100590: joint95_pointOnPolyConstraint1
+    100592: joint96
+    100594: joint96_pointOnPolyConstraint1
+    100596: joint97
+    100598: joint97_pointOnPolyConstraint1
+    100600: joint98
+    100602: joint98_pointOnPolyConstraint1
+    100604: joint99
+    100606: joint99_pointOnPolyConstraint1
+    100608: joint9_pointOnPolyConstraint1
+    100610: pCylinder1
+    100612: pSphere1
+    100614: pSphere1_pointOnPolyConstraint1
+    100616: pSphere1_pointOnPolyConstraint2
+    100618: pSphere1_pointOnPolyConstraint3
+    100620: pCube1
+    100622: pCube2
+    100624: pCube3
+    100626: pCylinder2
+    100628: pCylinder3
+    100630: polySurface1
+    100632: polySurface2
+    100634: polySurface3
+    100636: polySurface3 1
+    100638: polySurface4
+    100640: transform1
+    100642: transform2
+    100644: transform3
+    100646: transform4
+    100648: transform5
+    100650: transform6
+    100652: transform7
+    100654: transform8
+    100656: pCylinder4
+    100658: polySurface5
+    100660: transform10
+    100662: transform11
+    100664: transform9
+    100666: polySurface6
+    100668: FrogBot
+    100670: FrogTop
+    100672: Tongue
+    100674: TongueTip
+    400000: //RootNode
+    400002: joint1
+    400004: joint10
+    400006: joint100
+    400008: joint100_pointOnPolyConstraint1
+    400010: joint101
+    400012: joint101_pointOnPolyConstraint1
+    400014: joint102
+    400016: joint102_pointOnPolyConstraint1
+    400018: joint103
+    400020: joint103_pointOnPolyConstraint1
+    400022: joint104
+    400024: joint104_pointOnPolyConstraint1
+    400026: joint105
+    400028: joint105_pointOnPolyConstraint1
+    400030: joint106
+    400032: joint106_pointOnPolyConstraint1
+    400034: joint107
+    400036: joint107_pointOnPolyConstraint1
+    400038: joint108
+    400040: joint108_pointOnPolyConstraint1
+    400042: joint109
+    400044: joint109_pointOnPolyConstraint1
+    400046: joint10_pointOnPolyConstraint1
+    400048: joint11
+    400050: joint110
+    400052: joint110_pointOnPolyConstraint1
+    400054: joint111
+    400056: joint111_pointOnPolyConstraint1
+    400058: joint112
+    400060: joint112_pointOnPolyConstraint1
+    400062: joint113
+    400064: joint113_pointOnPolyConstraint1
+    400066: joint114
+    400068: joint114_pointOnPolyConstraint1
+    400070: joint115
+    400072: joint115_pointOnPolyConstraint1
+    400074: joint116
+    400076: joint116_pointOnPolyConstraint1
+    400078: joint117
+    400080: joint117_pointOnPolyConstraint1
+    400082: joint118
+    400084: joint118_pointOnPolyConstraint1
+    400086: joint119
+    400088: joint119_pointOnPolyConstraint1
+    400090: joint11_pointOnPolyConstraint1
+    400092: joint12
+    400094: joint120
+    400096: joint120_pointOnPolyConstraint1
+    400098: joint121
+    400100: joint121_pointOnPolyConstraint1
+    400102: joint122
+    400104: joint122_pointOnPolyConstraint1
+    400106: joint123
+    400108: joint123_pointOnPolyConstraint1
+    400110: joint124
+    400112: joint124_pointOnPolyConstraint1
+    400114: joint125
+    400116: joint125_pointOnPolyConstraint1
+    400118: joint126
+    400120: joint126_pointOnPolyConstraint1
+    400122: joint127
+    400124: joint127_pointOnPolyConstraint1
+    400126: joint128
+    400128: joint128_pointOnPolyConstraint1
+    400130: joint129
+    400132: joint129_pointOnPolyConstraint1
+    400134: joint12_pointOnPolyConstraint1
+    400136: joint13
+    400138: joint130
+    400140: joint130_pointOnPolyConstraint1
+    400142: joint131
+    400144: joint131_pointOnPolyConstraint1
+    400146: joint132
+    400148: joint132_pointOnPolyConstraint1
+    400150: joint133
+    400152: joint133_pointOnPolyConstraint1
+    400154: joint134
+    400156: joint134_pointOnPolyConstraint1
+    400158: joint135
+    400160: joint135_pointOnPolyConstraint1
+    400162: joint136
+    400164: joint136_pointOnPolyConstraint1
+    400166: joint137
+    400168: joint137_pointOnPolyConstraint1
+    400170: joint138
+    400172: joint138_pointOnPolyConstraint1
+    400174: joint139
+    400176: joint139_pointOnPolyConstraint1
+    400178: joint13_pointOnPolyConstraint1
+    400180: joint14
+    400182: joint140
+    400184: joint140_pointOnPolyConstraint1
+    400186: joint141
+    400188: joint141_pointOnPolyConstraint1
+    400190: joint142
+    400192: joint142_pointOnPolyConstraint1
+    400194: joint143
+    400196: joint143_pointOnPolyConstraint1
+    400198: joint144
+    400200: joint144_pointOnPolyConstraint1
+    400202: joint145
+    400204: joint145_pointOnPolyConstraint1
+    400206: joint146
+    400208: joint146_pointOnPolyConstraint1
+    400210: joint147
+    400212: joint147_pointOnPolyConstraint1
+    400214: joint148
+    400216: joint148_pointOnPolyConstraint1
+    400218: joint149
+    400220: joint149_pointOnPolyConstraint1
+    400222: joint14_pointOnPolyConstraint1
+    400224: joint15
+    400226: joint150
+    400228: joint150_pointOnPolyConstraint1
+    400230: joint151
+    400232: joint151_pointOnPolyConstraint1
+    400234: joint152
+    400236: joint152_pointOnPolyConstraint1
+    400238: joint15_pointOnPolyConstraint1
+    400240: joint16
+    400242: joint16_pointOnPolyConstraint1
+    400244: joint17
+    400246: joint17_pointOnPolyConstraint1
+    400248: joint18
+    400250: joint18_pointOnPolyConstraint1
+    400252: joint19
+    400254: joint19_pointOnPolyConstraint1
+    400256: joint1_pointOnPolyConstraint1
+    400258: joint2
+    400260: joint20
+    400262: joint20_pointOnPolyConstraint1
+    400264: joint21
+    400266: joint21_pointOnPolyConstraint1
+    400268: joint22
+    400270: joint22_pointOnPolyConstraint1
+    400272: joint23
+    400274: joint23_pointOnPolyConstraint1
+    400276: joint24
+    400278: joint24_pointOnPolyConstraint1
+    400280: joint25
+    400282: joint25_pointOnPolyConstraint1
+    400284: joint26
+    400286: joint26_pointOnPolyConstraint1
+    400288: joint27
+    400290: joint27_pointOnPolyConstraint1
+    400292: joint28
+    400294: joint28_pointOnPolyConstraint1
+    400296: joint29
+    400298: joint29_pointOnPolyConstraint1
+    400300: joint2_pointOnPolyConstraint1
+    400302: joint3
+    400304: joint30
+    400306: joint30_pointOnPolyConstraint1
+    400308: joint31
+    400310: joint31_pointOnPolyConstraint1
+    400312: joint32
+    400314: joint32_pointOnPolyConstraint1
+    400316: joint33
+    400318: joint33_pointOnPolyConstraint1
+    400320: joint34
+    400322: joint34_pointOnPolyConstraint1
+    400324: joint35
+    400326: joint35_pointOnPolyConstraint1
+    400328: joint36
+    400330: joint36_pointOnPolyConstraint1
+    400332: joint37
+    400334: joint37_pointOnPolyConstraint1
+    400336: joint38
+    400338: joint38_pointOnPolyConstraint1
+    400340: joint39
+    400342: joint39_pointOnPolyConstraint1
+    400344: joint3_pointOnPolyConstraint1
+    400346: joint4
+    400348: joint40
+    400350: joint40_pointOnPolyConstraint1
+    400352: joint41
+    400354: joint41_pointOnPolyConstraint1
+    400356: joint42
+    400358: joint42_pointOnPolyConstraint1
+    400360: joint43
+    400362: joint43_pointOnPolyConstraint1
+    400364: joint44
+    400366: joint44_pointOnPolyConstraint1
+    400368: joint45
+    400370: joint45_pointOnPolyConstraint1
+    400372: joint46
+    400374: joint46_pointOnPolyConstraint1
+    400376: joint47
+    400378: joint47_pointOnPolyConstraint1
+    400380: joint48
+    400382: joint48_pointOnPolyConstraint1
+    400384: joint49
+    400386: joint49_pointOnPolyConstraint1
+    400388: joint4_pointOnPolyConstraint1
+    400390: joint5
+    400392: joint50
+    400394: joint50_pointOnPolyConstraint1
+    400396: joint51
+    400398: joint51_pointOnPolyConstraint1
+    400400: joint52
+    400402: joint52_pointOnPolyConstraint1
+    400404: joint53
+    400406: joint53_pointOnPolyConstraint1
+    400408: joint54
+    400410: joint54_pointOnPolyConstraint1
+    400412: joint55
+    400414: joint55_pointOnPolyConstraint1
+    400416: joint56
+    400418: joint56_pointOnPolyConstraint1
+    400420: joint57
+    400422: joint57_pointOnPolyConstraint1
+    400424: joint58
+    400426: joint58_pointOnPolyConstraint1
+    400428: joint59
+    400430: joint59_pointOnPolyConstraint1
+    400432: joint5_pointOnPolyConstraint1
+    400434: joint6
+    400436: joint60
+    400438: joint60_pointOnPolyConstraint1
+    400440: joint61
+    400442: joint61_pointOnPolyConstraint1
+    400444: joint62
+    400446: joint62_pointOnPolyConstraint1
+    400448: joint63
+    400450: joint63_pointOnPolyConstraint1
+    400452: joint64
+    400454: joint64_pointOnPolyConstraint1
+    400456: joint65
+    400458: joint65_pointOnPolyConstraint1
+    400460: joint66
+    400462: joint66_pointOnPolyConstraint1
+    400464: joint67
+    400466: joint67_pointOnPolyConstraint1
+    400468: joint68
+    400470: joint68_pointOnPolyConstraint1
+    400472: joint69
+    400474: joint69_pointOnPolyConstraint1
+    400476: joint6_pointOnPolyConstraint1
+    400478: joint7
+    400480: joint70
+    400482: joint70_pointOnPolyConstraint1
+    400484: joint71
+    400486: joint71_pointOnPolyConstraint1
+    400488: joint72
+    400490: joint72_pointOnPolyConstraint1
+    400492: joint73
+    400494: joint73_pointOnPolyConstraint1
+    400496: joint74
+    400498: joint74_pointOnPolyConstraint1
+    400500: joint75
+    400502: joint75_pointOnPolyConstraint1
+    400504: joint76
+    400506: joint76_pointOnPolyConstraint1
+    400508: joint77
+    400510: joint77_pointOnPolyConstraint1
+    400512: joint78
+    400514: joint78_pointOnPolyConstraint1
+    400516: joint79
+    400518: joint79_pointOnPolyConstraint1
+    400520: joint7_pointOnPolyConstraint1
+    400522: joint8
+    400524: joint80
+    400526: joint80_pointOnPolyConstraint1
+    400528: joint81
+    400530: joint81_pointOnPolyConstraint1
+    400532: joint82
+    400534: joint82_pointOnPolyConstraint1
+    400536: joint83
+    400538: joint83_pointOnPolyConstraint1
+    400540: joint84
+    400542: joint84_pointOnPolyConstraint1
+    400544: joint85
+    400546: joint85_pointOnPolyConstraint1
+    400548: joint86
+    400550: joint86_pointOnPolyConstraint1
+    400552: joint87
+    400554: joint87_pointOnPolyConstraint1
+    400556: joint88
+    400558: joint88_pointOnPolyConstraint1
+    400560: joint89
+    400562: joint89_pointOnPolyConstraint1
+    400564: joint8_pointOnPolyConstraint1
+    400566: joint9
+    400568: joint90
+    400570: joint90_pointOnPolyConstraint1
+    400572: joint91
+    400574: joint91_pointOnPolyConstraint1
+    400576: joint92
+    400578: joint92_pointOnPolyConstraint1
+    400580: joint93
+    400582: joint93_pointOnPolyConstraint1
+    400584: joint94
+    400586: joint94_pointOnPolyConstraint1
+    400588: joint95
+    400590: joint95_pointOnPolyConstraint1
+    400592: joint96
+    400594: joint96_pointOnPolyConstraint1
+    400596: joint97
+    400598: joint97_pointOnPolyConstraint1
+    400600: joint98
+    400602: joint98_pointOnPolyConstraint1
+    400604: joint99
+    400606: joint99_pointOnPolyConstraint1
+    400608: joint9_pointOnPolyConstraint1
+    400610: pCylinder1
+    400612: pSphere1
+    400614: pSphere1_pointOnPolyConstraint1
+    400616: pSphere1_pointOnPolyConstraint2
+    400618: pSphere1_pointOnPolyConstraint3
+    400620: pCube1
+    400622: pCube2
+    400624: pCube3
+    400626: pCylinder2
+    400628: pCylinder3
+    400630: polySurface1
+    400632: polySurface2
+    400634: polySurface3
+    400636: polySurface3 1
+    400638: polySurface4
+    400640: transform1
+    400642: transform2
+    400644: transform3
+    400646: transform4
+    400648: transform5
+    400650: transform6
+    400652: transform7
+    400654: transform8
+    400656: pCylinder4
+    400658: polySurface5
+    400660: transform10
+    400662: transform11
+    400664: transform9
+    400666: polySurface6
+    400668: FrogBot
+    400670: FrogTop
+    400672: Tongue
+    400674: TongueTip
+    2300000: pSphere1
+    2300002: pCylinder1
+    2300004: pCube1
+    2300006: pCube2
+    2300008: polySurface2
+    2300010: polySurface3
+    2300012: polySurface5
+    2300014: polySurface6
+    2300016: FrogBot
+    2300018: FrogTop
+    2300020: Tongue
+    2300022: TongueTip
+    3300000: pSphere1
+    3300002: pCylinder1
+    3300004: pCube1
+    3300006: pCube2
+    3300008: polySurface2
+    3300010: polySurface3
+    3300012: polySurface5
+    3300014: polySurface6
+    3300016: FrogBot
+    3300018: FrogTop
+    3300020: Tongue
+    3300022: TongueTip
+    4300000: pCylinder1
+    4300002: pSphere1
+    4300004: pCube1
+    4300006: pCube2
+    4300008: polySurface2
+    4300010: polySurface3
+    4300012: polySurface5
+    4300014: polySurface6
+    4300016: FrogBot
+    4300018: FrogTop
+    4300020: Tongue
+    4300022: TongueTip
+    7400000: TongueShot
+    7400002: CloseMouth
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: pCylinder1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: TongueShot
+      takeName: Take 001
+      firstFrame: 10
+      lastFrame: 24
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: joint1
+        weight: 1
+      - path: joint1/joint1_pointOnPolyConstraint1
+        weight: 1
+      - path: joint2
+        weight: 1
+      - path: joint2/joint2_pointOnPolyConstraint1
+        weight: 1
+      - path: joint3
+        weight: 1
+      - path: joint3/joint3_pointOnPolyConstraint1
+        weight: 1
+      - path: joint4
+        weight: 1
+      - path: joint4/joint4_pointOnPolyConstraint1
+        weight: 1
+      - path: joint5
+        weight: 1
+      - path: joint5/joint5_pointOnPolyConstraint1
+        weight: 1
+      - path: joint6
+        weight: 1
+      - path: joint6/joint6_pointOnPolyConstraint1
+        weight: 1
+      - path: joint7
+        weight: 1
+      - path: joint7/joint7_pointOnPolyConstraint1
+        weight: 1
+      - path: joint8
+        weight: 1
+      - path: joint8/joint8_pointOnPolyConstraint1
+        weight: 1
+      - path: joint9
+        weight: 1
+      - path: joint9/joint9_pointOnPolyConstraint1
+        weight: 1
+      - path: joint10
+        weight: 1
+      - path: joint10/joint10_pointOnPolyConstraint1
+        weight: 1
+      - path: joint11
+        weight: 1
+      - path: joint11/joint11_pointOnPolyConstraint1
+        weight: 1
+      - path: joint12
+        weight: 1
+      - path: joint12/joint12_pointOnPolyConstraint1
+        weight: 1
+      - path: joint13
+        weight: 1
+      - path: joint13/joint13_pointOnPolyConstraint1
+        weight: 1
+      - path: joint14
+        weight: 1
+      - path: joint14/joint14_pointOnPolyConstraint1
+        weight: 1
+      - path: joint15
+        weight: 1
+      - path: joint15/joint15_pointOnPolyConstraint1
+        weight: 1
+      - path: joint16
+        weight: 1
+      - path: joint16/joint16_pointOnPolyConstraint1
+        weight: 1
+      - path: joint17
+        weight: 1
+      - path: joint17/joint17_pointOnPolyConstraint1
+        weight: 1
+      - path: joint18
+        weight: 1
+      - path: joint18/joint18_pointOnPolyConstraint1
+        weight: 1
+      - path: joint19
+        weight: 1
+      - path: joint19/joint19_pointOnPolyConstraint1
+        weight: 1
+      - path: joint20
+        weight: 1
+      - path: joint20/joint20_pointOnPolyConstraint1
+        weight: 1
+      - path: joint21
+        weight: 1
+      - path: joint21/joint21_pointOnPolyConstraint1
+        weight: 1
+      - path: joint22
+        weight: 1
+      - path: joint22/joint22_pointOnPolyConstraint1
+        weight: 1
+      - path: joint23
+        weight: 1
+      - path: joint23/joint23_pointOnPolyConstraint1
+        weight: 1
+      - path: joint24
+        weight: 1
+      - path: joint24/joint24_pointOnPolyConstraint1
+        weight: 1
+      - path: joint25
+        weight: 1
+      - path: joint25/joint25_pointOnPolyConstraint1
+        weight: 1
+      - path: joint26
+        weight: 1
+      - path: joint26/joint26_pointOnPolyConstraint1
+        weight: 1
+      - path: joint27
+        weight: 1
+      - path: joint27/joint27_pointOnPolyConstraint1
+        weight: 1
+      - path: joint28
+        weight: 1
+      - path: joint28/joint28_pointOnPolyConstraint1
+        weight: 1
+      - path: joint29
+        weight: 1
+      - path: joint29/joint29_pointOnPolyConstraint1
+        weight: 1
+      - path: joint30
+        weight: 1
+      - path: joint30/joint30_pointOnPolyConstraint1
+        weight: 1
+      - path: joint31
+        weight: 1
+      - path: joint31/joint31_pointOnPolyConstraint1
+        weight: 1
+      - path: joint32
+        weight: 1
+      - path: joint32/joint32_pointOnPolyConstraint1
+        weight: 1
+      - path: joint33
+        weight: 1
+      - path: joint33/joint33_pointOnPolyConstraint1
+        weight: 1
+      - path: joint34
+        weight: 1
+      - path: joint34/joint34_pointOnPolyConstraint1
+        weight: 1
+      - path: joint35
+        weight: 1
+      - path: joint35/joint35_pointOnPolyConstraint1
+        weight: 1
+      - path: joint36
+        weight: 1
+      - path: joint36/joint36_pointOnPolyConstraint1
+        weight: 1
+      - path: joint37
+        weight: 1
+      - path: joint37/joint37_pointOnPolyConstraint1
+        weight: 1
+      - path: joint38
+        weight: 1
+      - path: joint38/joint38_pointOnPolyConstraint1
+        weight: 1
+      - path: joint39
+        weight: 1
+      - path: joint39/joint39_pointOnPolyConstraint1
+        weight: 1
+      - path: joint40
+        weight: 1
+      - path: joint40/joint40_pointOnPolyConstraint1
+        weight: 1
+      - path: joint41
+        weight: 1
+      - path: joint41/joint41_pointOnPolyConstraint1
+        weight: 1
+      - path: joint42
+        weight: 1
+      - path: joint42/joint42_pointOnPolyConstraint1
+        weight: 1
+      - path: joint43
+        weight: 1
+      - path: joint43/joint43_pointOnPolyConstraint1
+        weight: 1
+      - path: joint44
+        weight: 1
+      - path: joint44/joint44_pointOnPolyConstraint1
+        weight: 1
+      - path: joint45
+        weight: 1
+      - path: joint45/joint45_pointOnPolyConstraint1
+        weight: 1
+      - path: joint46
+        weight: 1
+      - path: joint46/joint46_pointOnPolyConstraint1
+        weight: 1
+      - path: joint47
+        weight: 1
+      - path: joint47/joint47_pointOnPolyConstraint1
+        weight: 1
+      - path: joint48
+        weight: 1
+      - path: joint48/joint48_pointOnPolyConstraint1
+        weight: 1
+      - path: joint49
+        weight: 1
+      - path: joint49/joint49_pointOnPolyConstraint1
+        weight: 1
+      - path: joint50
+        weight: 1
+      - path: joint50/joint50_pointOnPolyConstraint1
+        weight: 1
+      - path: joint51
+        weight: 1
+      - path: joint51/joint51_pointOnPolyConstraint1
+        weight: 1
+      - path: joint52
+        weight: 1
+      - path: joint52/joint52_pointOnPolyConstraint1
+        weight: 1
+      - path: joint53
+        weight: 1
+      - path: joint53/joint53_pointOnPolyConstraint1
+        weight: 1
+      - path: joint54
+        weight: 1
+      - path: joint54/joint54_pointOnPolyConstraint1
+        weight: 1
+      - path: joint55
+        weight: 1
+      - path: joint55/joint55_pointOnPolyConstraint1
+        weight: 1
+      - path: joint56
+        weight: 1
+      - path: joint56/joint56_pointOnPolyConstraint1
+        weight: 1
+      - path: joint57
+        weight: 1
+      - path: joint57/joint57_pointOnPolyConstraint1
+        weight: 1
+      - path: joint58
+        weight: 1
+      - path: joint58/joint58_pointOnPolyConstraint1
+        weight: 1
+      - path: joint59
+        weight: 1
+      - path: joint59/joint59_pointOnPolyConstraint1
+        weight: 1
+      - path: joint60
+        weight: 1
+      - path: joint60/joint60_pointOnPolyConstraint1
+        weight: 1
+      - path: joint61
+        weight: 1
+      - path: joint61/joint61_pointOnPolyConstraint1
+        weight: 1
+      - path: joint62
+        weight: 1
+      - path: joint62/joint62_pointOnPolyConstraint1
+        weight: 1
+      - path: joint63
+        weight: 1
+      - path: joint63/joint63_pointOnPolyConstraint1
+        weight: 1
+      - path: joint64
+        weight: 1
+      - path: joint64/joint64_pointOnPolyConstraint1
+        weight: 1
+      - path: joint65
+        weight: 1
+      - path: joint65/joint65_pointOnPolyConstraint1
+        weight: 1
+      - path: joint66
+        weight: 1
+      - path: joint66/joint66_pointOnPolyConstraint1
+        weight: 1
+      - path: joint67
+        weight: 1
+      - path: joint67/joint67_pointOnPolyConstraint1
+        weight: 1
+      - path: joint68
+        weight: 1
+      - path: joint68/joint68_pointOnPolyConstraint1
+        weight: 1
+      - path: joint69
+        weight: 1
+      - path: joint69/joint69_pointOnPolyConstraint1
+        weight: 1
+      - path: joint70
+        weight: 1
+      - path: joint70/joint70_pointOnPolyConstraint1
+        weight: 1
+      - path: joint71
+        weight: 1
+      - path: joint71/joint71_pointOnPolyConstraint1
+        weight: 1
+      - path: joint72
+        weight: 1
+      - path: joint72/joint72_pointOnPolyConstraint1
+        weight: 1
+      - path: joint73
+        weight: 1
+      - path: joint73/joint73_pointOnPolyConstraint1
+        weight: 1
+      - path: joint74
+        weight: 1
+      - path: joint74/joint74_pointOnPolyConstraint1
+        weight: 1
+      - path: joint75
+        weight: 1
+      - path: joint75/joint75_pointOnPolyConstraint1
+        weight: 1
+      - path: joint76
+        weight: 1
+      - path: joint76/joint76_pointOnPolyConstraint1
+        weight: 1
+      - path: joint77
+        weight: 1
+      - path: joint77/joint77_pointOnPolyConstraint1
+        weight: 1
+      - path: joint78
+        weight: 1
+      - path: joint78/joint78_pointOnPolyConstraint1
+        weight: 1
+      - path: joint79
+        weight: 1
+      - path: joint79/joint79_pointOnPolyConstraint1
+        weight: 1
+      - path: joint80
+        weight: 1
+      - path: joint80/joint80_pointOnPolyConstraint1
+        weight: 1
+      - path: joint81
+        weight: 1
+      - path: joint81/joint81_pointOnPolyConstraint1
+        weight: 1
+      - path: joint82
+        weight: 1
+      - path: joint82/joint82_pointOnPolyConstraint1
+        weight: 1
+      - path: joint83
+        weight: 1
+      - path: joint83/joint83_pointOnPolyConstraint1
+        weight: 1
+      - path: joint84
+        weight: 1
+      - path: joint84/joint84_pointOnPolyConstraint1
+        weight: 1
+      - path: joint85
+        weight: 1
+      - path: joint85/joint85_pointOnPolyConstraint1
+        weight: 1
+      - path: joint86
+        weight: 1
+      - path: joint86/joint86_pointOnPolyConstraint1
+        weight: 1
+      - path: joint87
+        weight: 1
+      - path: joint87/joint87_pointOnPolyConstraint1
+        weight: 1
+      - path: joint88
+        weight: 1
+      - path: joint88/joint88_pointOnPolyConstraint1
+        weight: 1
+      - path: joint89
+        weight: 1
+      - path: joint89/joint89_pointOnPolyConstraint1
+        weight: 1
+      - path: joint90
+        weight: 1
+      - path: joint90/joint90_pointOnPolyConstraint1
+        weight: 1
+      - path: joint91
+        weight: 1
+      - path: joint91/joint91_pointOnPolyConstraint1
+        weight: 1
+      - path: joint92
+        weight: 1
+      - path: joint92/joint92_pointOnPolyConstraint1
+        weight: 1
+      - path: joint93
+        weight: 1
+      - path: joint93/joint93_pointOnPolyConstraint1
+        weight: 1
+      - path: joint94
+        weight: 1
+      - path: joint94/joint94_pointOnPolyConstraint1
+        weight: 1
+      - path: joint95
+        weight: 1
+      - path: joint95/joint95_pointOnPolyConstraint1
+        weight: 1
+      - path: joint96
+        weight: 1
+      - path: joint96/joint96_pointOnPolyConstraint1
+        weight: 1
+      - path: joint97
+        weight: 1
+      - path: joint97/joint97_pointOnPolyConstraint1
+        weight: 1
+      - path: joint98
+        weight: 1
+      - path: joint98/joint98_pointOnPolyConstraint1
+        weight: 1
+      - path: joint99
+        weight: 1
+      - path: joint99/joint99_pointOnPolyConstraint1
+        weight: 1
+      - path: joint100
+        weight: 1
+      - path: joint100/joint100_pointOnPolyConstraint1
+        weight: 1
+      - path: joint101
+        weight: 1
+      - path: joint101/joint101_pointOnPolyConstraint1
+        weight: 1
+      - path: joint102
+        weight: 1
+      - path: joint102/joint102_pointOnPolyConstraint1
+        weight: 1
+      - path: joint103
+        weight: 1
+      - path: joint103/joint103_pointOnPolyConstraint1
+        weight: 1
+      - path: joint104
+        weight: 1
+      - path: joint104/joint104_pointOnPolyConstraint1
+        weight: 1
+      - path: joint105
+        weight: 1
+      - path: joint105/joint105_pointOnPolyConstraint1
+        weight: 1
+      - path: joint106
+        weight: 1
+      - path: joint106/joint106_pointOnPolyConstraint1
+        weight: 1
+      - path: joint107
+        weight: 1
+      - path: joint107/joint107_pointOnPolyConstraint1
+        weight: 1
+      - path: joint108
+        weight: 1
+      - path: joint108/joint108_pointOnPolyConstraint1
+        weight: 1
+      - path: joint109
+        weight: 1
+      - path: joint109/joint109_pointOnPolyConstraint1
+        weight: 1
+      - path: joint110
+        weight: 1
+      - path: joint110/joint110_pointOnPolyConstraint1
+        weight: 1
+      - path: joint111
+        weight: 1
+      - path: joint111/joint111_pointOnPolyConstraint1
+        weight: 1
+      - path: joint112
+        weight: 1
+      - path: joint112/joint112_pointOnPolyConstraint1
+        weight: 1
+      - path: joint113
+        weight: 1
+      - path: joint113/joint113_pointOnPolyConstraint1
+        weight: 1
+      - path: joint114
+        weight: 1
+      - path: joint114/joint114_pointOnPolyConstraint1
+        weight: 1
+      - path: joint115
+        weight: 1
+      - path: joint115/joint115_pointOnPolyConstraint1
+        weight: 1
+      - path: joint116
+        weight: 1
+      - path: joint116/joint116_pointOnPolyConstraint1
+        weight: 1
+      - path: joint117
+        weight: 1
+      - path: joint117/joint117_pointOnPolyConstraint1
+        weight: 1
+      - path: joint118
+        weight: 1
+      - path: joint118/joint118_pointOnPolyConstraint1
+        weight: 1
+      - path: joint119
+        weight: 1
+      - path: joint119/joint119_pointOnPolyConstraint1
+        weight: 1
+      - path: joint120
+        weight: 1
+      - path: joint120/joint120_pointOnPolyConstraint1
+        weight: 1
+      - path: joint121
+        weight: 1
+      - path: joint121/joint121_pointOnPolyConstraint1
+        weight: 1
+      - path: joint122
+        weight: 1
+      - path: joint122/joint122_pointOnPolyConstraint1
+        weight: 1
+      - path: joint123
+        weight: 1
+      - path: joint123/joint123_pointOnPolyConstraint1
+        weight: 1
+      - path: joint124
+        weight: 1
+      - path: joint124/joint124_pointOnPolyConstraint1
+        weight: 1
+      - path: joint125
+        weight: 1
+      - path: joint125/joint125_pointOnPolyConstraint1
+        weight: 1
+      - path: joint126
+        weight: 1
+      - path: joint126/joint126_pointOnPolyConstraint1
+        weight: 1
+      - path: joint127
+        weight: 1
+      - path: joint127/joint127_pointOnPolyConstraint1
+        weight: 1
+      - path: joint128
+        weight: 1
+      - path: joint128/joint128_pointOnPolyConstraint1
+        weight: 1
+      - path: joint129
+        weight: 1
+      - path: joint129/joint129_pointOnPolyConstraint1
+        weight: 1
+      - path: joint130
+        weight: 1
+      - path: joint130/joint130_pointOnPolyConstraint1
+        weight: 1
+      - path: joint131
+        weight: 1
+      - path: joint131/joint131_pointOnPolyConstraint1
+        weight: 1
+      - path: joint132
+        weight: 1
+      - path: joint132/joint132_pointOnPolyConstraint1
+        weight: 1
+      - path: joint133
+        weight: 1
+      - path: joint133/joint133_pointOnPolyConstraint1
+        weight: 1
+      - path: joint134
+        weight: 1
+      - path: joint134/joint134_pointOnPolyConstraint1
+        weight: 1
+      - path: joint135
+        weight: 1
+      - path: joint135/joint135_pointOnPolyConstraint1
+        weight: 1
+      - path: joint136
+        weight: 1
+      - path: joint136/joint136_pointOnPolyConstraint1
+        weight: 1
+      - path: joint137
+        weight: 1
+      - path: joint137/joint137_pointOnPolyConstraint1
+        weight: 1
+      - path: joint138
+        weight: 1
+      - path: joint138/joint138_pointOnPolyConstraint1
+        weight: 1
+      - path: joint139
+        weight: 1
+      - path: joint139/joint139_pointOnPolyConstraint1
+        weight: 1
+      - path: joint140
+        weight: 1
+      - path: joint140/joint140_pointOnPolyConstraint1
+        weight: 1
+      - path: joint141
+        weight: 1
+      - path: joint141/joint141_pointOnPolyConstraint1
+        weight: 1
+      - path: joint142
+        weight: 1
+      - path: joint142/joint142_pointOnPolyConstraint1
+        weight: 1
+      - path: joint143
+        weight: 1
+      - path: joint143/joint143_pointOnPolyConstraint1
+        weight: 1
+      - path: joint144
+        weight: 1
+      - path: joint144/joint144_pointOnPolyConstraint1
+        weight: 1
+      - path: joint145
+        weight: 1
+      - path: joint145/joint145_pointOnPolyConstraint1
+        weight: 1
+      - path: joint146
+        weight: 1
+      - path: joint146/joint146_pointOnPolyConstraint1
+        weight: 1
+      - path: joint147
+        weight: 1
+      - path: joint147/joint147_pointOnPolyConstraint1
+        weight: 1
+      - path: joint148
+        weight: 1
+      - path: joint148/joint148_pointOnPolyConstraint1
+        weight: 1
+      - path: joint149
+        weight: 1
+      - path: joint149/joint149_pointOnPolyConstraint1
+        weight: 1
+      - path: joint150
+        weight: 1
+      - path: joint150/joint150_pointOnPolyConstraint1
+        weight: 1
+      - path: joint151
+        weight: 1
+      - path: joint151/joint151_pointOnPolyConstraint1
+        weight: 1
+      - path: joint152
+        weight: 1
+      - path: joint152/joint152_pointOnPolyConstraint1
+        weight: 1
+      - path: joint152/pSphere1
+        weight: 1
+      - path: joint152/pSphere1/pSphere1_pointOnPolyConstraint1
+        weight: 1
+      - path: joint152/pSphere1/pSphere1_pointOnPolyConstraint2
+        weight: 1
+      - path: joint152/pSphere1/pSphere1_pointOnPolyConstraint3
+        weight: 1
+      - path: pCylinder1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: CloseMouth
+      takeName: Take 001
+      firstFrame: 16
+      lastFrame: 24
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: FrogTop
+        weight: 1
+      - path: pCube3
+        weight: 1
+      - path: pCube3/FrogBot
+        weight: 1
+      - path: Tongue
+        weight: 1
+      - path: TongueTip
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

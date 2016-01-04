@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: 654e806b3b9852f4d8a76f1536208cef
+timeCreated: 1447992653
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Altar
+    100002: Floor
+    100004: //RootNode
+    100006: Leaf
+    100008: polySurface103
+    100010: polySurface104
+    100012: polySurface105
+    100014: polySurface120
+    100016: polySurface122
+    100018: polySurface89
+    100020: polySurface90
+    100022: polySurface91
+    100024: polySurface92
+    100026: polySurface93
+    100028: polySurface94
+    100030: polySurface95
+    100032: polySurface96
+    100034: polySurface97
+    100036: Rock
+    100038: Rock1
+    100040: Rock2
+    100042: Rock3
+    100044: Rock4
+    400000: Altar
+    400002: Floor
+    400004: //RootNode
+    400006: Leaf
+    400008: polySurface103
+    400010: polySurface104
+    400012: polySurface105
+    400014: polySurface120
+    400016: polySurface122
+    400018: polySurface89
+    400020: polySurface90
+    400022: polySurface91
+    400024: polySurface92
+    400026: polySurface93
+    400028: polySurface94
+    400030: polySurface95
+    400032: polySurface96
+    400034: polySurface97
+    400036: Rock
+    400038: Rock1
+    400040: Rock2
+    400042: Rock3
+    400044: Rock4
+    2300000: Altar
+    2300002: Floor
+    2300004: Leaf
+    2300006: polySurface103
+    2300008: polySurface104
+    2300010: polySurface105
+    2300012: polySurface120
+    2300014: polySurface122
+    2300016: polySurface89
+    2300018: polySurface90
+    2300020: polySurface91
+    2300022: polySurface92
+    2300024: polySurface93
+    2300026: polySurface94
+    2300028: polySurface95
+    2300030: polySurface96
+    2300032: polySurface97
+    2300034: Rock
+    2300036: Rock1
+    2300038: Rock2
+    2300040: Rock3
+    2300042: Rock4
+    3300000: Altar
+    3300002: Floor
+    3300004: Leaf
+    3300006: polySurface103
+    3300008: polySurface104
+    3300010: polySurface105
+    3300012: polySurface120
+    3300014: polySurface122
+    3300016: polySurface89
+    3300018: polySurface90
+    3300020: polySurface91
+    3300022: polySurface92
+    3300024: polySurface93
+    3300026: polySurface94
+    3300028: polySurface95
+    3300030: polySurface96
+    3300032: polySurface97
+    3300034: Rock
+    3300036: Rock1
+    3300038: Rock2
+    3300040: Rock3
+    3300042: Rock4
+    4300000: polySurface122
+    4300002: polySurface89
+    4300004: polySurface90
+    4300006: polySurface91
+    4300008: polySurface92
+    4300010: polySurface93
+    4300012: polySurface94
+    4300014: polySurface95
+    4300016: polySurface96
+    4300018: polySurface97
+    4300020: Rock4
+    4300022: Rock3
+    4300024: Rock2
+    4300026: Rock1
+    4300028: Rock
+    4300030: polySurface103
+    4300032: polySurface104
+    4300034: polySurface105
+    4300036: polySurface120
+    4300038: Floor
+    4300040: Altar
+    4300042: Leaf
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

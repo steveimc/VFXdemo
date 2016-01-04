@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1011 &101100000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: tucanMask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: BirdMaskTucan
+    m_Weight: 0
+  - m_Path: nurbsCircle62
+    m_Weight: 0
+  - m_Path: nurbsCircle62/nurbsCircle11
+    m_Weight: 0
+  - m_Path: nurbsCircle62/nurbsCircle11/nurbsCircle12
+    m_Weight: 0
+  - m_Path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13
+    m_Weight: 0
+  - m_Path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14
+    m_Weight: 0
+  - m_Path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30
+    m_Weight: 0
+  - m_Path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31
+    m_Weight: 0
+  - m_Path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31/Mask_Core1
+    m_Weight: 0
+  - m_Path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31/Mask_Core1/Feathers_1
+    m_Weight: 1
+  - m_Path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31/Mask_Core1/Feathers_1/Feathers_2
+    m_Weight: 1
+  - m_Path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31/Mask_Core1/Feathers_1/Feathers_2/Feathers_3
+    m_Weight: 1
+  - m_Path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31/Mask_Core1/Feathers_1/Feathers_2/Feathers_3/Feathers_4
+    m_Weight: 1
+  - m_Path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31/Mask_Core1/Feathers_1/Top_Feathers_1
+    m_Weight: 1
+  - m_Path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31/Mask_Core1/Feathers_1/Top_Feathers_1/Top_Feathers_2
+    m_Weight: 1
+  - m_Path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31/Mask_Core1/Front_Feathers_1
+    m_Weight: 1
+  - m_Path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31/Mask_Core1/Front_Feathers_1/Front_Feathers_2
+    m_Weight: 1
+  - m_Path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31/Mask_Core1/Front_Feathers_1/Front_Feathers_2/Front_Feathers_3
+    m_Weight: 1
+  - m_Path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31/Mask_Core1/Little_Feather_1
+    m_Weight: 1
+  - m_Path: nurbsCircle62/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle30/nurbsCircle31/Mask_Core1/Little_Feather_1/Little_Feather_2
+    m_Weight: 1

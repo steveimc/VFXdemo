@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1011 &101100000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: HandsFree
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: BirdSpikes
+    m_Weight: 1
+  - m_Path: Body
+    m_Weight: 1
+  - m_Path: COG
+    m_Weight: 1
+  - m_Path: COG/Column_1
+    m_Weight: 1
+  - m_Path: COG/Column_1/Column_2
+    m_Weight: 1
+  - m_Path: COG/Column_1/Column_2/Column_3
+    m_Weight: 1
+  - m_Path: COG/Column_1/Column_2/Column_3/Left_Scapula
+    m_Weight: 1
+  - m_Path: COG/Column_1/Column_2/Column_3/Left_Scapula/Left_Shoulder
+    m_Weight: 0
+  - m_Path: COG/Column_1/Column_2/Column_3/Left_Scapula/Left_Shoulder/Left_Elbow
+    m_Weight: 0
+  - m_Path: COG/Column_1/Column_2/Column_3/Left_Scapula/Left_Shoulder/Left_Elbow/Left_Hand
+    m_Weight: 0
+  - m_Path: COG/Column_1/Column_2/Column_3/Left_Scapula/Left_Shoulder/Left_Elbow/Left_Hand/Left_IndexFinger_1
+    m_Weight: 0
+  - m_Path: COG/Column_1/Column_2/Column_3/Left_Scapula/Left_Shoulder/Left_Elbow/Left_Hand/Left_IndexFinger_1/Left_IndexFinger_2
+    m_Weight: 0
+  - m_Path: COG/Column_1/Column_2/Column_3/Left_Scapula/Left_Shoulder/Left_Elbow/Left_Hand/Left_IndexFinger_1/Left_IndexFinger_2/Left_IndexFinger_3
+    m_Weight: 0
+  - m_Path: COG/Column_1/Column_2/Column_3/Left_Scapula/Left_Shoulder/Left_Elbow/Left_Hand/Left_MiddleFinger_1
+    m_Weight: 0
+  - m_Path: COG/Column_1/Column_2/Column_3/Left_Scapula/Left_Shoulder/Left_Elbow/Left_Hand/Left_MiddleFinger_1/Left_MiddleFinger_2
+    m_Weight: 0
+  - m_Path: COG/Column_1/Column_2/Column_3/Left_Scapula/Left_Shoulder/Left_Elbow/Left_Hand/Left_MiddleFinger_1/Left_MiddleFinger_2/Left_MiddleFinger_3
+    m_Weight: 0
+  - m_Path: COG/Column_1/Column_2/Column_3/Left_Scapula/Left_Shoulder/Left_Elbow/Left_Hand/Left_Pinky_1
+    m_Weight: 0
+  - m_Path: COG/Column_1/Column_2/Column_3/Left_Scapula/Left_Shoulder/Left_Elbow/Left_Hand/Left_Pinky_1/Left_Pinky_2
+    m_Weight: 0
+  - m_Path: COG/Column_1/Column_2/Column_3/Left_Scapula/Left_Shoulder/Left_Elbow/Left_Hand/Left_Pinky_1/Left_Pinky_2/Left_Pinky_3
+    m_Weight: 0
+  - m_Path: COG/Column_1/Column_2/Column_3/Left_Scapula/Left_Shoulder/Left_Elbow/Left_Hand/Left_Thumb_1
+    m_Weight: 0
+  - m_Path: COG/Column_1/Column_2/Column_3/Left_Scapula/Left_Shoulder/Left_Elbow/Left_Hand/Left_Thumb_1/Left_Thumb_2
+    m_Weight: 0
+  - m_Path: COG/Column_1/Column_2/Column_3/Left_Scapula/Left_Shoulder/Left_Elbow/Left_Hand/Left_Thumb_1/Left_Thumb_2/Left_Thumb_3
+    m_Weight: 0
+  - m_Path: COG/Column_1/Column_2/Column_3/Neck
+    m_Weight: 1
+  - m_Path: COG/Column_1/Column_2/Column_3/Neck/Head
+    m_Weight: 1
+  - m_Path: COG/Column_1/Column_2/Column_3/Neck/Head/Head_2
+    m_Weight: 1
+  - m_Path: COG/Column_1/Column_2/Column_3/Neck/Head/Head_2/Left_Ear_1
+    m_Weight: 1
+  - m_Path: COG/Column_1/Column_2/Column_3/Neck/Head/Head_2/Left_Ear_1/Left_Ear_2
+    m_Weight: 1
+  - m_Path: COG/Column_1/Column_2/Column_3/Neck/Head/Head_2/Left_Ear_3
+    m_Weight: 1
+  - m_Path: COG/Column_1/Column_2/Column_3/Neck/Head/Head_2/Left_Ear_3/Left_Ear_4
+    m_Weight: 1
+  - m_Path: COG/Column_1/Column_2/Column_3/Right_Scapula
+    m_Weight: 1
+  - m_Path: COG/Column_1/Column_2/Column_3/Right_Scapula/Right_Shoulder
+    m_Weight: 0
+  - m_Path: COG/Column_1/Column_2/Column_3/Right_Scapula/Right_Shoulder/Right_Elbow
+    m_Weight: 0
+  - m_Path: COG/Column_1/Column_2/Column_3/Right_Scapula/Right_Shoulder/Right_Elbow/Right_Hand
+    m_Weight: 0
+  - m_Path: COG/Column_1/Column_2/Column_3/Right_Scapula/Right_Shoulder/Right_Elbow/Right_Hand/Right_IndexFinger_1
+    m_Weight: 0
+  - m_Path: COG/Column_1/Column_2/Column_3/Right_Scapula/Right_Shoulder/Right_Elbow/Right_Hand/Right_IndexFinger_1/Right_IndexFinger_2
+    m_Weight: 0
+  - m_Path: COG/Column_1/Column_2/Column_3/Right_Scapula/Right_Shoulder/Right_Elbow/Right_Hand/Right_IndexFinger_1/Right_IndexFinger_2/Right_IndexFinger_3
+    m_Weight: 0
+  - m_Path: COG/Column_1/Column_2/Column_3/Right_Scapula/Right_Shoulder/Right_Elbow/Right_Hand/Right_MiddleFinger_1
+    m_Weight: 0
+  - m_Path: COG/Column_1/Column_2/Column_3/Right_Scapula/Right_Shoulder/Right_Elbow/Right_Hand/Right_MiddleFinger_1/Right_MiddleFinger_2
+    m_Weight: 0
+  - m_Path: COG/Column_1/Column_2/Column_3/Right_Scapula/Right_Shoulder/Right_Elbow/Right_Hand/Right_MiddleFinger_1/Right_MiddleFinger_2/Right_MiddleFinger_3
+    m_Weight: 0
+  - m_Path: COG/Column_1/Column_2/Column_3/Right_Scapula/Right_Shoulder/Right_Elbow/Right_Hand/Right_Pinky_1
+    m_Weight: 0
+  - m_Path: COG/Column_1/Column_2/Column_3/Right_Scapula/Right_Shoulder/Right_Elbow/Right_Hand/Right_Pinky_1/Right_Pinky_2
+    m_Weight: 0
+  - m_Path: COG/Column_1/Column_2/Column_3/Right_Scapula/Right_Shoulder/Right_Elbow/Right_Hand/Right_Pinky_1/Right_Pinky_2/Right_Pinky_3
+    m_Weight: 0
+  - m_Path: COG/Column_1/Column_2/Column_3/Right_Scapula/Right_Shoulder/Right_Elbow/Right_Hand/Right_Thumb_1
+    m_Weight: 0
+  - m_Path: COG/Column_1/Column_2/Column_3/Right_Scapula/Right_Shoulder/Right_Elbow/Right_Hand/Right_Thumb_1/Right_Thumb_2
+    m_Weight: 0
+  - m_Path: COG/Column_1/Column_2/Column_3/Right_Scapula/Right_Shoulder/Right_Elbow/Right_Hand/Right_Thumb_1/Right_Thumb_2/Right_Thumb_3
+    m_Weight: 0
+  - m_Path: COG/Left_thigh
+    m_Weight: 1
+  - m_Path: COG/Left_thigh/Left_Knee
+    m_Weight: 1
+  - m_Path: COG/Left_thigh/Left_Knee/Left_Ankle
+    m_Weight: 1
+  - m_Path: COG/Left_thigh/Left_Knee/Left_Ankle/Left_Foot_1
+    m_Weight: 1
+  - m_Path: COG/Left_thigh/Left_Knee/Left_Ankle/Left_Foot_1/Left_Foot_2
+    m_Weight: 1
+  - m_Path: COG/Right_thigh
+    m_Weight: 1
+  - m_Path: COG/Right_thigh/Right_Knee
+    m_Weight: 1
+  - m_Path: COG/Right_thigh/Right_Knee/Right_Ankle
+    m_Weight: 1
+  - m_Path: COG/Right_thigh/Right_Knee/Right_Ankle/Right_Foot_1
+    m_Weight: 1
+  - m_Path: COG/Right_thigh/Right_Knee/Right_Ankle/Right_Foot_1/Right_Foot_2
+    m_Weight: 1
+  - m_Path: ReptileSpikes
+    m_Weight: 1
